@@ -1,2 +1,2 @@
-# get_couse
+# get_course
 for el zero web school
